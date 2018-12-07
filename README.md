@@ -1,6 +1,6 @@
 # Readme
 
-This is my take on the task in this [code review][1].
+This is my take on the task in this [code review][1]. My review is [here][2]
 
 
 
@@ -26,3 +26,4 @@ The robot is safe to operate and very forgiving:
 Implement a function that takes a String of commands for the robot. The function should output String representing the number of blocks (in hexadecimal) at each position after running all the commands
 
 [1]: https://codereview.stackexchange.com/questions/209155/robot-block-command/209201
+[2]: https://codereview.stackexchange.com/a/209201/93119
